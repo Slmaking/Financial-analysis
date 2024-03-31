@@ -8,3 +8,13 @@ This is historical data about Bitcoin, including its price and market data, cove
 4. Statistical Analysis: Calculate key statistics like average, median, high, low, and standard deviation of price and volume.
 5. Graphical Representation: Create charts to visually represent trends in the data.
 6. Custom Analysis: Any specific analysis or questions you have in mind.
+
+# Product analysis 
+
+This assessment is designed to evaluate my skills in data analysis and communication for the Product Analyst. I will be provided with several anonymized Excel sheets containing user activity data. My task is to analyze the data and answer the following questions using my analytical skills and understanding of business goals.
+
+
+
+
+
+
