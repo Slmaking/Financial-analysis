@@ -12,7 +12,9 @@ This is historical data about Bitcoin, including its price and market data, cove
 # Product analysis 
 
 This assessment is designed to evaluate my skills in data analysis and communication for the Product Analyst. I will be provided with several anonymized Excel sheets containing user activity data. My task is to analyze the data and answer the following questions using my analytical skills and understanding of business goals.
+You can find the this analysis hear!
 
+Here is the link for you to access: [GitHub - ProductAnalysis Notebook](https://github.com/Slmaking/Financial-analysis/blob/bedbe1403a77f54932c7efe30e7e6a64fdf99b3a/ProductAnalysis.ipynb).
 
 
 
